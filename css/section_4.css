@@ -1,0 +1,131 @@
+.section_4{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    flex-wrap: wrap;
+    min-height: 100vh;
+}
+
+.section_4 .col1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 96vh;
+    order: 1;
+}
+.section_4 .col1 .bg_color_frame{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    background-color: rgb(157,167,190);
+    border-radius: 0 .25rem .25rem 0;
+    z-index: 1;
+}
+.section_4 .col1 .image{
+    position: relative;
+    width: 74vh;
+    height: 74vh;
+    z-index: 2;
+}
+.section_4 .col1 .image img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: .25rem;
+}
+.section_4 .col2{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 0 20px;
+    order: 2;
+}
+.col2_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    gap: 20px;
+    height: 74vh;
+    width: 100%;
+}
+.section_4 .col2 .title{
+    width: 100%;
+    font-weight: bold;
+    font-size: 2em;
+}
+.section_4 .col2 .item{
+    display: flex;
+    flex-direction: column;
+    width: calc(50% - 10px);
+    max-width: 300px;
+}
+.section_4 .col2 .item__num{
+    color: var(--gold);
+    font-size: 2.4em;
+    font-weight: bold;
+}
+.section_4 .col2 .item__title{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.section_4 .col2 .item__description{
+}
+
+
+@media screen and (max-width: 1025px) {
+
+}
+@media screen and (max-width: 769px) {
+    .section_4 {
+        display: grid;
+        grid-template-columns: 1fr;
+        flex-wrap: wrap;
+        min-height: 100vh;
+    }
+    .section_4 .col1{
+        order: 2;
+    }
+    .section_4 .col2{
+        order: 1;
+    }
+    .col2_wrapper{
+        height: auto;
+        flex-direction: column;;
+        max-width: 490px;
+        margin: 0 auto;
+    }
+    .section_4 .col2 .item{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        max-width: 100%;
+    }
+    .section_4 .col1 .bg_color_frame{
+        position: absolute;
+        left: 0;
+        top: 50%;
+        width: 100%;
+        height: 50%;
+        border-radius: 0;
+    }
+}
+@media screen and (max-width: 426px) {
+    .section_4 .col1 .image{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        z-index: 2;
+    }
+    .section_4 .col1 .image img{
+        width: 90%;
+        height: 90%;
+    }
+
+}
+@media screen and (max-width: 321px) {
+
+}

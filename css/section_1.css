@@ -1,0 +1,92 @@
+.section_1{
+    position: relative;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(../media/img/1512555.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: var(--black);
+}
+
+.section_1 .col1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 0 .25rem .25rem 0;
+
+    padding: 20px 20px 20px 60px;
+    gap: 20px;
+    width: 50%;
+    height: calc(100vh - 80px);
+}
+.section_1 .col1 .title{
+    font-size: 2.4em;
+    font-weight: bold;
+    font-family: "Segoe UI", sans-serif;
+}
+.section_1 .col1 .description{
+    font-size: 1.4em;
+}
+.section_1 .col1 .buttons{
+    display: flex;
+    gap: 20px;
+}
+.section_1 .col1 .buttons .h-btn{
+    padding: 14px 24px;
+    border-radius: .25rem;
+    cursor: pointer;
+    user-select: none;
+    font-weight: 500;
+}
+.section_1 .col1 .buttons .more_info{
+    background-color: var(--bg_blue);
+    color: whitesmoke;
+}
+.section_1 .col1 .buttons .more_info:hover{
+    transition: .2s;
+    background-color: #7b8eb5;
+}
+.section_1 .col1 .buttons .get_consultation{
+    border: 2px solid var(--gold);
+    background-color: rgba(205, 162, 112, 0.11);
+}
+.section_1 .col1 .buttons .get_consultation:hover{
+    transition: .2s;
+    border: 2px solid #e8b880;
+}
+
+
+
+@media screen and (max-width: 1025px) {
+    .section_1 .col1{
+        width: 50%;
+        min-width: 600px;
+    }
+
+}
+@media screen and (max-width: 769px) {
+
+}
+@media screen and (max-width: 426px) {
+    .section_1 .col1{
+        padding: 20px;
+        width: 100%;
+        min-width: 320px;
+        text-align: center;
+    }
+    .section_1 .col1 .buttons{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .section_1 .col1 .buttons .h-btn{
+        text-align: center;
+    }
+
+}
+@media screen and (max-width: 321px) {
+
+}
