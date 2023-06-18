@@ -4,7 +4,8 @@
     align-items: center;
     min-height: 100vh;
     width: 100%;
-    background-image: url(../media/img/1512555.jpg);
+    /*background-image: url(../media/img/1512555.jpg);*/
+    background-image: url(../media/img/stock-photo-view-road-level-powerful-truck.jpg);
     background-attachment: fixed;
     background-size: cover;
     color: var(--black);
@@ -44,6 +45,7 @@
 .section_1 .col1 .buttons .more_info{
     background-color: var(--bg_blue);
     color: whitesmoke;
+    text-decoration: none;
 }
 .section_1 .col1 .buttons .more_info:hover{
     transition: .2s;

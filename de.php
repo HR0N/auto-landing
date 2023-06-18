@@ -69,10 +69,10 @@
                         <a class="nav-link" href="#contacts">Контакти</a>
                     </li>
                     <li class="nav-item language">
-                        <a class="nav-link" href="#"><img src="./media/flags/UA.png"></a>
+                        <a class="nav-link" href="#"><img src="./media/flags/DE.png"></a>
                         <div class="languages">
+                            <a class="nav-link" href="index.php"><img src="./media/flags/UA.png"></a>
                             <a class="nav-link" href="gb.php"><img src="./media/flags/GB.png"></a>
-                            <a class="nav-link" href="de.php"><img src="./media/flags/DE.png"></a>
                         </div>
                     </li>
                 </ul>

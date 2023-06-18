@@ -1,0 +1,66 @@
+.callback_form{
+    position: fixed;
+    display: none;
+    top: 0;
+    left: 0;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 100vh;
+    z-index: 3;
+    background-color: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(10px);
+}
+
+.callback_form form{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: .25rem;
+}
+
+.callback_form form .callback_close{
+    position: absolute;
+    top: 0;
+    right: 8px;
+    font-size: 1.6em;
+    cursor: pointer;
+}
+
+.callback_form form .title{
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.callback_form form label{
+    width: 320px;
+}
+.callback_form form label input{}
+.callback_form form .buttons{
+    margin-top: 20px;
+    display: flex;
+}
+.callback_form form .buttons .h-btn{
+    width: 100%;
+    padding: 14px 24px;
+    border-radius: .25rem;
+    cursor: pointer;
+    user-select: none;
+    font-weight: 500;
+    text-align: center;
+    background-color: var(--bg_blue);
+    color: whitesmoke;
+}
+.callback_form form .buttons .h-btn:hover{
+    transition: .2s;
+    background-color: #7b8eb5;
+}
+
+.display_flex{
+    display: flex !important;
+}
