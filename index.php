@@ -69,7 +69,7 @@
                         <a class="nav-link" href="#contacts">Contacts</a>
                     </li>
                     <li class="nav-item language">
-                        <a class="nav-link" href="/"><img src="./media/flags/GB.png"></a>
+                        <div class="nav-link"><img src="./media/flags/GB.png"></div>
                         <div class="languages">
                             <a class="nav-link" href="ua.php"><img src="./media/flags/UA.png"></a>
                             <a class="nav-link" href="de.php"><img src="./media/flags/DE.png"></a>
@@ -90,7 +90,7 @@
         </div>
 
         <div class="header_banner__col col2">
-            <div class="col2_row1">LLC Terrawall</div>
+            <div class="col2_row1"><img src="./media/img/logo3.jpg"> LLC Terrawall</div>
             <div class="col2_row2">Products that care for the planet</div>
         </div>
 
@@ -301,7 +301,7 @@
 <section class="section_4" id="working">
     <div class="col1">
         <div class="bg_color_frame"></div>
-        <div class="image"><img src="./media/img/stock-photo-view-road-level-powerful-truck.jpg" alt="img"></div>
+        <div class="image"><img src="./media/img/logo.png" alt="img"></div>
     </div>
     <div class="col2">
         <div class="col2_wrapper">

@@ -53,7 +53,6 @@ header .header_banner{
 .header_banner__col{
     color: #323232;
     display: flex;
-    flex: 1;
     justify-content: center;
 }
 header .header_banner .col1{
@@ -91,13 +90,20 @@ header .header_banner .col2 .col2_row1{
     font-size: 1.8em;
     font-weight: bold;
 }
+header .header_banner .col2 .col2_row1 img{
+    width: 60px;
+}
 header .header_banner .col2 .col2_row2{
     font-size: 1.2em;
+}
+header .header_banner__col.col1, header .header_banner__col.col3{
+    display: none !important;
 }
 
 
 header li.language{
     position: relative;
+    line-height: 18px;
 }
 header li.language:hover .languages{
     max-height: 80px;

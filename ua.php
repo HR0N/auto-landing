@@ -70,7 +70,7 @@
                         <a class="nav-link" href="#contacts">Контакти</a>
                     </li>
                     <li class="nav-item language">
-                        <a class="nav-link" href="/ua.php"><img src="./media/flags/UA.png"></a>
+                        <div class="nav-link"><img src="./media/flags/UA.png"></div>
                         <div class="languages">
                             <a class="nav-link" href="/"><img src="./media/flags/GB.png"></a>
                             <a class="nav-link" href="de.php"><img src="./media/flags/DE.png"></a>
@@ -91,7 +91,7 @@
         </div>
 
         <div class="header_banner__col col2">
-            <div class="col2_row1">ТОВ Терравол</div>
+            <div class="col2_row1"><img src="./media/img/logo3.jpg"> ТОВ Терравол</div>
             <div class="col2_row2">Продукція, що дбає про планету</div>
         </div>
 
@@ -326,7 +326,7 @@
 <section class="section_4" id="working">
     <div class="col1">
         <div class="bg_color_frame"></div>
-        <div class="image"><img src="./media/img/stock-photo-view-road-level-powerful-truck.jpg" alt="img"></div>
+        <div class="image"><img src="./media/img/logo.png" alt="img"></div>
     </div>
     <div class="col2">
         <div class="col2_wrapper">
