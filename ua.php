@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="css/section_6.css">
     <link rel="stylesheet" href="css/section_7.css">
     <link rel="stylesheet" href="css/section_8.css">
+    <link rel="stylesheet" href="css/section_text.css">
     <link rel="stylesheet" href="css/callback_form.css">
     <link rel="stylesheet" href="fonts/icomoon/font-icons.css">
     <meta name="format-detection" content="telephone=no">
@@ -30,7 +31,7 @@
     <!--    Font Awesome -->
     <script src="https://kit.fontawesome.com/ee97ebf0ee.js" crossorigin="anonymous"></script>
 
-    <title>LLC Terrawall</title>
+    <title>ТОВ Терравол</title>
 </head>
 <body>
 
@@ -51,28 +52,28 @@
                         <a class="nav-link" href="#">Головна</a>
                     </li>-->
                     <li class="nav-item">
-                        <a class="nav-link" href="#advantages">Vorteile</a>
+                        <a class="nav-link" href="#advantages">Переваги</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#working">Arbeiten</a>
+                        <a class="nav-link" href="#working">Робота</a>
                     </li>
                     <!--<li class="nav-item">
-                        <a class="nav-link" href="#gallery">Galerie</a>
+                        <a class="nav-link" href="#gallery">Галерея</a>
                     </li>-->
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">Über uns</a>
+                        <a class="nav-link" href="#about">Про нас</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#callback">Verbindung</a>
+                        <a class="nav-link" href="#callback">Зв'язок</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#contacts">Kontakte</a>
+                        <a class="nav-link" href="#contacts">Контакти</a>
                     </li>
                     <li class="nav-item language">
-                        <a class="nav-link" href="/de.php"><img src="./media/flags/DE.png"></a>
+                        <a class="nav-link" href="/ua.php"><img src="./media/flags/UA.png"></a>
                         <div class="languages">
                             <a class="nav-link" href="/"><img src="./media/flags/GB.png"></a>
-                            <a class="nav-link" href="ua.php"><img src="./media/flags/UA.png"></a>
+                            <a class="nav-link" href="de.php"><img src="./media/flags/DE.png"></a>
                         </div>
                     </li>
                 </ul>
@@ -84,14 +85,14 @@
         <div class="header_banner__col col1">
             <div class="col1_col1"><i class="icon-phone-volume-solid"></i></div>
             <div class="col1_col2">
-                <div class="col1_row1">täglich von 10:00 bis 22:00 Uhr</div>
+                <div class="col1_row1">щодня з 10:00 до 22:00</div>
                 <div class="col1_row2">+38(097)418-37-39</div>
             </div>
         </div>
 
         <div class="header_banner__col col2">
-            <div class="col2_row1">LLC Terrawall</div>
-            <div class="col2_row2">Produkte, die sich um den Planeten kümmern</div>
+            <div class="col2_row1">ТОВ Терравол</div>
+            <div class="col2_row2">Продукція, що дбає про планету</div>
         </div>
 
         <div class="header_banner__col col3"></div>
@@ -102,42 +103,42 @@
 <section class="callback_form">
     <form>
         <div class="callback_close"><i class="icon-xmark-solid"></i></div>
-        <div class="title">Anwendung</div>
+        <div class="title">Заявка</div>
 
-        <label><span style="color: red">*</span> Name
+        <label><span style="color: red">*</span> Ім'я
             <input class="form-control" type="text" name="name">
         </label>
 
-        <label><span style="color: red">*</span> Telefon
+        <label><span style="color: red">*</span> Телефон
             <input class="form-control" type="phone" name="phone">
         </label>
 
         <div class="buttons">
-            <div class="h-btn callback_submit">Schicken</div>
+            <div class="h-btn callback_submit">Відправити</div>
         </div>
     </form>
 </section>
 
 <section class="section_1">
     <div class="col1">
-        <div class="title">Willkommen in der Welt der umweltfreundlichen Stoffe!</div>
-<!--        <div class="description">Füllen Sie den Antrag aus, um 10 % Rabatt zu erhalten</div>-->
+        <div class="title">Ласкаво просимо у світ екологічно дружніх речовин!</div>
+<!--        <div class="description">Заповніть заявку, щоб отримати знижку 10%</div>-->
         <div class="buttons" style="display: none">
-            <a class="h-btn more_info" href="#services">Erfahren Sie mehr</a>
-            <div class="h-btn get_consultation callback_btn">Lassen Sie sich beraten</div>
+            <a class="h-btn more_info" href="#services">Дізнатися більше</a>
+            <div class="h-btn get_consultation callback_btn">Отримати консультацію</div>
         </div>
     </div>
 </section>
 
 <!--    HIDDEN  -->
 <section class="section_2" id="services" style="display: none">
-    <div class="title">Unsere Dienstleistungen</div>
+    <div class="title">Наші послуги</div>
     <div class="services">
 
         <div class="service">
             <div class="service__col1"><img src="./media/img/58689658.jpg" alt="img"></div>
             <div class="service__col2">
-                <div class="service__title">Reparatur von Wohnungen</div>
+                <div class="service__title">Ремонт квартир</div>
                 <ul class="service_list">
                     <li>Устройство наливных полов</li>
                     <li>Электромонтажные работы</li>
@@ -251,47 +252,71 @@
     </div>
 </section>
 
+<section class="section_text">
+    <div class="col1">     В настоящее время в качестве вулканизирующего агента при производстве резиновых смесей в
+        шинной промышленности Европы используется оксид цинка.
+        <br><br>
+        Компания Терравол разработала инновационный продукт – вулканизующий агент для производства резиновых смесей
+        автомобильных шин.
+        <br><br>
+        Оксид цинка является веществом опасным для окружающей среды: Опасность для водной среды-Категория 1, Острая
+        токсиксичность оральная и кожная - Категория 5.                 Ежедневно на дорогах Европы при изнашивании
+        шин в атмосферу выбрасываются тонны резиновой пыли содержащей оксид цинка, который отрицательно влияет на экологию.
+    </div>
+    <div class="col2">
+        Инновационность нашего продукта заключается в уменьшенном в 2 раза содержании оксида цинка в вулканизирующем
+        агенте по сравнению с существующей технологией.
+        <br><br>
+        При этом вулканизирующий агент нашего производства не содержит каких либо других вредных веществ.
+        При применении нашего вулканизирующего агента шины служат на 10-12% дольше чем произведенные по традиционной
+        технолгии, и при этом выделяют в 2 раза меньше такого вредного вещества как оксид цинка.
+        <br><br>
+        Таким образом, продукт нашего производства в 2 раза более экологически чистый чем традиционно применяемый
+        вулканизант и увеличивает ресурс шин..
+    </div>
+</section>
+
 <section class="section_3" id="advantages">
-    <div class="title">Unsere Vorteile</div>
+    <div class="title">Наші переваги</div>
     <div class="advantages">
 
         <div class="advantage">
             <div class="advantage__icon"><i class="icon-gears-solid"></i></div>
-            <div class="advantage__title">Rabatte auf Materialien</div>
+            <div class="advantage__title">Знижки на матеріали</div>
             <div class="advantage__description">
-                Emissionsreduzierung: Dank der innovativen Entwicklung unserer Technologien konnten wir die Emissionen reduzieren
-                Schadstoffe in die Atmosphäre um 50 %. Wir sind bestrebt, die Luftqualität und den Umweltschutz zu verbessern
-                Umfeld
+                Зниження викидів: Завдяки інноваційним розробкам наших технологій ми змогли скоротити викид
+                небезпечних речовин в атмосферу на 50%. Ми прагнемо покращити якість повітря та охорону навколишнього середовища
+                середовища.
             </div>
         </div>
 
         <div class="advantage">
             <div class="advantage__icon"><i class="icon-screwdriver-wrench-solid"></i></div>
-            <div class="advantage__title">Qualitätsgarantie</div>
+            <div class="advantage__title">Гарантія якості</div>
             <div class="advantage__description">
-                Erhöhte Lebensdauer: Unsere Technologie ermöglicht es Ihnen, die Lebensdauer von Reifen zu erhöhen
-                um 10–12 %. Sie werden die Langlebigkeit und Zuverlässigkeit unserer Produkte genießen und dadurch Geld sparen
-                Zeit und Ressourcen.
+                Збільшення експлуатаційного ресурсу: Наша технологія дозволяє збільшити експлуатаційний ресурс шин
+                на 10–12%. Ти зможеш насолоджуватися довговічністю та надійністю наших продуктів, що заощаджує твоє
+                час та ресурси.
             </div>
         </div>
 
         <div class="advantage">
             <div class="advantage__icon"><i class="icon-sliders-solid"></i></div>
-            <div class="advantage__title">Strenge Kontrolle</div>
+            <div class="advantage__title">Суворий контроль</div>
             <div class="advantage__description">
-                Umweltfreundliche Formel: Unser Produkt basiert auf einer speziellen Formel, kombiniert mit einem einzigartigen
-                Durch die mechanisch-chemische Verarbeitung ist es im Vergleich zu herkömmlichen Verfahren ökologischer und hochwertiger
-                Materialien Wir streben nach kontinuierlicher Verbesserung und Reduzierung der Umweltbelastung.
+                Екологічна формула: Наш продукт заснований на спеціальній формулі, яка у поєднанні з унікальною
+                механо-хімічною обробкою робить його більш екологічним та якісним у порівнянні з традиційними
+                матеріалами. Ми прагнемо постійного вдосконалення та зниження впливу на навколишнє середовище.
             </div>
         </div>
 
         <div class="advantage">
             <div class="advantage__icon"><i class="icon-gear-solid"></i></div>
-            <div class="advantage__title">Hinter uns ist es sauber</div>
+            <div class="advantage__title">Після нас чисто</div>
             <div class="advantage__description">
-                Leben verbessern: Unsere Technologien zielen darauf ab, das Leben der Menschen zu verbessern. Wir schaffen Produkte, die
-                Kombinieren Sie Umweltverantwortung, Langlebigkeit und hohe Qualität, um dies zu gewährleisten
-                Komfort, Sicherheit und Befriedigung der Bedürfnisse unserer Kunden.
+                Поліпшення життя: Наші технології спрямовані на покращення життя людей. Ми створюємо продукти, які
+                поєднують у собі екологічну відповідальність, довговічність та високу якість, щоб забезпечити
+                комфорт, безпека та задоволення потреб наших клієнтів.
             </div>
         </div>
 
@@ -305,41 +330,41 @@
     </div>
     <div class="col2">
         <div class="col2_wrapper">
-            <div class="title">Wie wir arbeiten</div>
+            <div class="title">Як ми працюємо</div>
 
             <div class="item">
                 <div class="item__num">01</div>
-                <div class="item__title">Forschung und Innovation:</div>
-                <div class="item__description">Wir betreiben ständig innovative Forschung zur Entwicklung
-                    umweltfreundliche Technologien und Materialien für die Reifenproduktion.</div>
+                <div class="item__title">Дослідження та інновації:</div>
+                <div class="item__description">Ми постійно проводимо інноваційні дослідження для розробки
+                    екологічно чистих технологій та матеріалів для виробництва шин.</div>
             </div>
 
             <div class="item">
                 <div class="item__num">02</div>
-                <div class="item__title">Nachhaltige Produktion:</div>
-                <div class="item__description">Wir führen eine nachhaltige Produktion durch und reduzieren so das Negative
-                    Auswirkungen auf die Umwelt und den Einsatz energie- und ressourcenschonender Verfahren.</div>
+                <div class="item__title">Стійке виробництво:</div>
+                <div class="item__description">Ми здійснюємо стійке виробництво, зменшуючи негативне
+                    вплив на навколишнє середовище та застосовуючи енерго- та ресурсозберігаючі процеси.</div>
             </div>
 
             <div class="item">
                 <div class="item__num">03</div>
-                <div class="item__title">Umweltverantwortung:</div>
-                <div class="item__description">Wir legen großen Wert auf die Umwelt und ergreifen Maßnahmen zur Reduzierung
-                    unseres ökologischen Fußabdrucks durch die Interaktion mit Organisationen und Experten auf diesem Gebiet.</div>
+                <div class="item__title">Екологічна відповідальність:</div>
+                <div class="item__description">Ми глибоко дбаємо про навколишнє середовище та вживаємо заходів для скорочення
+                    нашого екологічного сліду, взаємодіючи з організаціями та експертами у цій галузі.</div>
             </div>
 
             <div class="item">
                 <div class="item__num">04</div>
-                <div class="item__title">Kundenorientierter Ansatz:</div>
-                <div class="item__description">Wir stellen unsere Kunden in den Mittelpunkt, indem wir ihnen individuelle Angebote machen
-                    Lösungen und zuverlässige Unterstützung, um ihre Zufriedenheit sicherzustellen.</div>
+                <div class="item__title">Клієнтоорієнтований підхід:</div>
+                <div class="item__description">Ми ставимо наших клієнтів на перше місце, пропонуючи індивідуальні
+                    рішення та надійну підтримку, щоб забезпечити їхню задоволеність.</div>
             </div>
         </div>
     </div>
 </section>
 
 <section class="section_5" id="gallery"  style="display: none">
-    <div class="title">Unsere Arbeiten</div>
+    <div class="title">Наші роботи</div>
     <div class="our_work">
         <div class="image image1"><img src="./media/img/2d3f49f0346220a1af1e94f0d8d3d51e.jpg" alt="img"></div>
         <div class="image image2"><img src="./media/img/6f4636546559d97079251c57cb1584a5.jpg" alt="img"></div>
@@ -352,56 +377,55 @@
         <div class="image image9"><img src="./media/img/48077b87275e5204eb8ec92c5d55adc3.jpg" alt="img"></div>
     </div>
     <div class="buttons">
-        <div class="h-btn open">Expandieren <i class="fa-solid fa-chevron-down"></i></div>
-        <div class="h-btn close">Zusammenbruch <i class="fa-solid fa-chevron-up"></i></div>
+        <div class="h-btn open">Розгорнути <i class="fa-solid fa-chevron-down"></i></div>
+        <div class="h-btn close">Згорнути <i class="fa-solid fa-chevron-up"></i></div>
     </div>
 </section>
 
 <section class="section_6" id="about">
     <div class="row1"><img src="./media/img/f66c02d10d7a1b4778b1e1a9295b5e69.jpg" alt="img"></div>
     <div class="row2">
-        <div class="title">Über uns</div>
+        <div class="title">Про нас</div>
         <div class="description">
-            Wir sind ein Unternehmen, das innovative umweltfreundliche Reifen herstellt. Unsere Mission ist es, Produkte anzubieten
-            Hochwertige Produkte, die die Bedürfnisse der Kunden erfüllen und den Planeten schützen. Wir haben die Emissionen reduziert
-            Schadstoffe um 50 % reduziert und die Lebensdauer der Reifen um 10–12 % erhöht. Unsere nachhaltigen Herstellungspraktiken
-            trägt dazu bei, die negativen Auswirkungen auf die Umwelt zu reduzieren. Wir schätzen Kunden und Angebot
-            individuelle Lösungen und Support.
+            Ми – компанія, яка створює інноваційні екологічно чисті шини. Наша місія – пропонувати продукти
+            високої якості, що задовольняють потреби клієнтів та охороняють планету. Ми знизили викиди
+            небезпечних речовин на 50% та збільшили ресурс шин на 10-12%. Наша стійка виробнича практика
+            допомагає скоротити негативний вплив на довкілля. Ми цінуємо клієнтів та пропонуємо
+            індивідуальні рішення та підтримку.
             <br><br>
-            Schaffen Sie gemeinsam mit uns eine grünere und sicherere Zukunft. Wir streben danach, zu werden
-            Ein führendes Unternehmen in der Reifenindustrie, das innovative Lösungen mit hoher Qualität anbietet
-            und Umwelteffizienz. Unser Expertenteam forscht ständig an neuen Technologien und Materialien,
-            unseren Kunden die besten Lösungen für ihre Autos anzubieten. Wir sind stolz auf unsere ökologische
-            Wir übernehmen Verantwortung und streben danach, die Welt zu verbessern, indem wir jede Reise sicherer und jeden Weg sicherer machen
-            ökologisch sauber.
+            Приєднуйтесь до нас у створенні більш екологічно чистого та безпечного майбутнього. Ми прагнемо стати
+            провідною компанією в індустрії шин, пропонуючи інноваційні рішення, які поєднують високу якість
+            та екологічну ефективність. Наша команда експертів постійно досліджує нові технології та матеріали,
+            щоб запропонувати нашим клієнтам найкращі рішення для їх автомобілів. Ми пишаємося своєю екологічною
+            відповідальністю і прагнемо покращити світ, роблячи кожну подорож безпечною і кожен шлях більш
+            екологічно чистим.
             <div>
             </div>
 </section>
 
 <section class="section_7" id="callback">
-
     <div class="col1">
-        <div class="title">Hinterlassen Sie eine Anfrage zum Kauf des Produkts</div>
-        <div class="item"><div><i class="icon-check-solid"></i></div> <span>Geben Sie Ihren Namen und Ihre Telefonnummer in das Formular ein</span></div>
-        <div class="item"><div><i class="icon-check-solid"></i></div> <span>Wir werden Sie kontaktieren, um die Konditionen zu besprechen</span></div>
-<!--        <div class="item"><div><i class="icon-check-solid"></i></div> <span>Der Spezialist misst alle Daten und erstellt eine Schätzung</span></div>-->
-        <div class="item"><div><i class="icon-check-solid"></i></div> <span>Sie unterschreiben den Vertrag – und wir machen uns an die Arbeit!</span></div>
+        <div class="title">Залишити заявку на придбання продукту</div>
+        <div class="item"><div><i class="icon-check-solid"></i></div> <span>Впишіть ім'я та номер телефону у форму</span></div>
+        <div class="item"><div><i class="icon-check-solid"></i></div> <span>Ми зв'язуємося з вами, щоб обговорити умови</span></div>
+<!--        <div class="item"><div><i class="icon-check-solid"></i></div> <span>Фахівець заміряє всі дані та складає кошторис</span></div>-->
+        <div class="item"><div><i class="icon-check-solid"></i></div> <span>Ви підписуєте договір – а ми беремося за справу!</span></div>
     </div>
 
     <div class="col2 callback_form2">
         <form>
-            <div class="title">Hinterlassen Sie eine Anfrage</div>
-            <label><span style="color: red">*</span> Name
+            <div class="title">Залишити заявку</div>
+            <label><span style="color: red">*</span> Ім'я
                 <input class="form-control" type="text" name="name">
             </label>
-            <label><span style="color: red">*</span> Telefon
+            <label><span style="color: red">*</span> Телефон
                 <input class="form-control" type="phone" name="phone">
             </label>
-            <label><span style="color: red">*</span> Email
+            <label><span style="color: red">*</span> Емейл
                 <input class="form-control" type="email" name="email">
             </label>
             <div class="buttons">
-                <div class="h-btn callback_btn callback_submit">Send</div>
+                <div class="h-btn callback_btn callback_submit">Залишити</div>
             </div>
         </form>
     </div>
@@ -413,7 +437,7 @@
 <section class="section_8" id="contacts">
 
     <div class="col1">
-        <div class="col1_item title">Kontakte</div>
+        <div class="col1_item title">Контакти</div>
         <div class="col1_item phone"><i class="icon-phone-solid"></i> +38(097)418-37-39</div>
         <div class="col1_item email"><i class="icon-envelope-regular"></i> rtiaktivator@gmail.com</div>
         <!--        <div class="col1_item address"><i class="icon-location-dot-solid"></i> г. Киев,​бульв. Шевченка, дом</div>-->

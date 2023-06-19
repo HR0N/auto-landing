@@ -1,4 +1,8 @@
 .callback_form{
+    display: none;
+}
+/*
+.callback_form{
     position: fixed;
     display: none;
     top: 0;
@@ -63,4 +67,4 @@
 
 .display_flex{
     display: flex !important;
-}
+}*/

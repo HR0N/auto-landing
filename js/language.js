@@ -7,6 +7,5 @@ class Language extends father{
 
 
     events(){
-        console.log(this.el);
     };
 }

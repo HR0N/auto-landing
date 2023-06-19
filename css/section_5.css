@@ -1,6 +1,8 @@
 .section_5{
     display: flex;
     flex-wrap: wrap;
+    padding-bottom: 30px;
+    padding-top: 100px;
 }
 .section_5 .title{
     width: 100%;
