@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="css/section_6.css">
     <link rel="stylesheet" href="css/section_7.css">
     <link rel="stylesheet" href="css/section_8.css">
+    <link rel="stylesheet" href="css/section_text.css">
     <link rel="stylesheet" href="css/callback_form.css">
     <link rel="stylesheet" href="fonts/icomoon/font-icons.css">
     <meta name="format-detection" content="telephone=no">
@@ -69,7 +70,7 @@
                         <a class="nav-link" href="#contacts">Contacts</a>
                     </li>
                     <li class="nav-item language">
-                        <div class="nav-link"><img src="./media/flags/GB.png"></div>
+                        <div class="nav-link">Select language <img src="./media/flags/GB.png"></div>
                         <div class="languages">
                             <a class="nav-link" href="ua.php"><img src="./media/flags/UA.png"></a>
                             <a class="nav-link" href="de.php"><img src="./media/flags/DE.png"></a>
@@ -90,7 +91,7 @@
         </div>
 
         <div class="header_banner__col col2">
-            <div class="col2_row1"><img src="./media/img/logo3.jpg"> LLC Terrawall</div>
+            <div class="col2_row1"><img src="./media/img/logo3-transparent2.png"> LLC Terrawall</div>
             <div class="col2_row2">Products that care for the planet</div>
         </div>
 
@@ -251,17 +252,40 @@
     </div>
 </section>
 
+<section class="section_text">
+    <div class="col1">Currently, zinc oxide is used as a vulcanizing agent in the production of rubber compounds in the European tire industry.
+        <br><br>
+        Zinc oxide is a hazardous substance for the environment: Hazard for the aquatic environment-Category 1, Acute
+        toxic oral and skin - Category 5. Everyday on the roads of Europe with wear and tear
+        tires, tons of rubber dust containing zinc oxide is released into the atmosphere, which has a negative impact on the environment.
+        <br><br>
+        The Terravol company has developed an innovative product - a vulcanizing agent for the production of rubber compounds
+        car tires
+    </div>
+    <div class="col2">
+        The innovativeness of our product consists in a 2-fold reduction in the content of zinc oxide in the vulcanizing agent
+        agent compared to existing technology.
+        <br><br>
+        At the same time, the vulcanizing agent of our production does not contain any other harmful substances.
+        When using our vulcanizing agent, tires last 10-12% longer than conventional ones
+        technologies, and at the same time emit 2 times less of such a harmful substance as zinc oxide.
+        <br><br>
+        Thus, the product of our production is 2 times more environmentally friendly than traditionally used
+        vulcanizer and increases tire life.
+    </div>
+</section>
+
 <section class="section_3" id="advantages">
     <div class="title">Our advantages</div>
     <div class="advantages">
 
         <div class="advantage">
             <div class="advantage__icon"><i class="icon-gears-solid"></i></div>
-            <div class="advantage__title">Discounts on materials</div>
+            <div class="advantage__title">Environmentally friendly substances</div>
             <div class="advantage__description">
-                Emission reduction: Thanks to the innovative development of our technologies, we were able to reduce the emission
-                hazardous substances into the atmosphere by 50%. We strive to improve air quality and environmental protection
-                environment
+                Reduction of emissions: Thanks to the innovative development of our technologies, we were able
+                to reduce the emission of hazardous substances into the atmosphere by 50%. We strive to improve
+                air quality and environmental protection.
             </div>
         </div>
 
@@ -301,7 +325,7 @@
 <section class="section_4" id="working">
     <div class="col1">
         <div class="bg_color_frame"></div>
-        <div class="image"><img src="./media/img/logo.png" alt="img"></div>
+        <div class="image"><img src="./media/img/imgonline-com-ua-Mirror-iiFn0MsnVoW.jpg" alt="img"></div>
     </div>
     <div class="col2">
         <div class="col2_wrapper">
@@ -310,8 +334,8 @@
             <div class="item">
                 <div class="item__num">01</div>
                 <div class="item__title">Research and innovation:</div>
-                <div class="item__description">We constantly conduct innovative research for development
-                    environmentally friendly technologies and materials for tire production.</div>
+                <div class="item__description">We constantly conduct innovative research to develop ecologically
+                    clean technologies and materials for industry.</div>
             </div>
 
             <div class="item">
@@ -358,15 +382,15 @@
 </section >
 
 <section class="section_6" id="about">
-    <div class="row1"><img src="./media/img/f66c02d10d7a1b4778b1e1a9295b5e69.jpg" alt="img"></div>
+    <div class="row1"><img src="./media/img/logo-cut.png" alt="img"></div>
     <div class="row2">
         <div class="title">About us</div>
         <div class="description">
-            We are a company that creates innovative environmentally friendly tires. Our mission is to offer products
-            high quality products that meet customer needs and protect the planet. We have reduced emissions
-            hazardous substances by 50% and increased tire life by 10-12%. Our sustainable manufacturing practices
-            helps reduce the negative impact on the environment. We value customers and offer
-            individual solutions and support.
+            Terravol is a company that creates innovative environmentally friendly ingredients.
+            Our mission is to offer products that make industry cleaner and more energy efficient. We have
+            reduced the amount of hazardous substances in our products by up to 50% and increased the resource
+            of materials by 10-12%. Our sustainable manufacturing practices help reduce our negative impact on
+            the environment. We value our customers and offer customized solutions and support.
             <br><br>
             Join us in creating a greener and safer future. We strive to become
             a leading company in the tire industry, offering innovative solutions that combine high quality

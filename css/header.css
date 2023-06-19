@@ -92,6 +92,7 @@ header .header_banner .col2 .col2_row1{
 }
 header .header_banner .col2 .col2_row1 img{
     width: 60px;
+    transform: translateY(-12px);
 }
 header .header_banner .col2 .col2_row2{
     font-size: 1.2em;
@@ -105,8 +106,12 @@ header li.language{
     position: relative;
     line-height: 18px;
 }
+header li.language .nav-link{
+    color: white
+}
 header li.language:hover .languages{
     max-height: 80px;
+    right: 0;
 }
 header li.language .languages{
     max-height: 0;
@@ -134,6 +139,16 @@ header li.language .languages a img{
     header .header_banner{
         display: flex;
         flex-direction: column;
+    }
+    header li.language{
+        position: relative;
+        line-height: 18px;
+        width: max-content;
+        padding-right: 4px;
+    }
+    header li.language:hover .languages{
+        max-height: 80px;
+        width: 30px;
     }
 
 }

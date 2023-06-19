@@ -3,9 +3,9 @@
     display: flex;
     flex-wrap: wrap;
 
-    padding: 60px 0 200px 0;
+    padding: 0 0 100px 0;
     margin-top: 50px;
-    margin-bottom: 100px;
+    /*margin-bottom: 100px;*/
 }
 .section_6 .row1{
     display: flex;

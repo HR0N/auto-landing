@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="css/section_6.css">
     <link rel="stylesheet" href="css/section_7.css">
     <link rel="stylesheet" href="css/section_8.css">
+    <link rel="stylesheet" href="css/section_text.css">
     <link rel="stylesheet" href="css/callback_form.css">
     <link rel="stylesheet" href="fonts/icomoon/font-icons.css">
     <meta name="format-detection" content="telephone=no">
@@ -69,7 +70,7 @@
                         <a class="nav-link" href="#contacts">Kontakte</a>
                     </li>
                     <li class="nav-item language">
-                        <div class="nav-link"><img src="./media/flags/DE.png"></div>
+                        <div class="nav-link">Sprache auswählen <img src="./media/flags/DE.png"></div>
                         <div class="languages">
                             <a class="nav-link" href="/"><img src="./media/flags/GB.png"></a>
                             <a class="nav-link" href="ua.php"><img src="./media/flags/UA.png"></a>
@@ -90,7 +91,7 @@
         </div>
 
         <div class="header_banner__col col2">
-            <div class="col2_row1"><img src="./media/img/logo3.jpg"> LLC Terrawall</div>
+            <div class="col2_row1"><img src="./media/img/logo3-transparent2.png"> LLC Terrawall</div>
             <div class="col2_row2">Produkte, die sich um den Planeten kümmern</div>
         </div>
 
@@ -251,17 +252,41 @@
     </div>
 </section>
 
+<section class="section_text">
+    <div class="col1">Derzeit als Vulkanisationsmittel bei der Herstellung von Gummimischungen eingesetzt
+        Die europäische Reifenindustrie verwendet Zinkoxid.
+        <br><br>
+        Zinkoxid ist ein umweltgefährdender Stoff: Gewässergefährdung – Kategorie 1, akut
+        giftig für Mund und Haut – Kategorie 5. Alltag auf den Straßen Europas mit Abnutzung
+        Bei der Herstellung von Reifen gelangen Tonnen von zinkoxidhaltigem Gummistaub in die Atmosphäre, was sich negativ auf die Umwelt auswirkt.
+        <br><br>
+        Das Unternehmen Terravol hat ein innovatives Produkt entwickelt – ein Vulkanisationsmittel zur Herstellung von Gummimischungen
+        Autoreifen
+    </div>
+    <div class="col2">
+        Die Innovation unseres Produkts besteht in einer zweifachen Reduzierung des Zinkoxidgehalts im Vulkanisationsmittel
+        Agent im Vergleich zur bestehenden Technologie.
+        <br><br>
+        Gleichzeitig enthält das Vulkanisationsmittel unserer Produktion keine weiteren Schadstoffe.
+        Bei Verwendung unseres Vulkanisationsmittels halten Reifen 10-12 % länger als herkömmliche
+        Technologien und emittieren gleichzeitig zweimal weniger schädliche Substanzen wie Zinkoxid.
+        <br><br>
+        Somit ist das Produkt unserer Produktion 2-mal umweltfreundlicher als traditionell verwendetes
+        Vulkanisierer und erhöht die Lebensdauer des Reifens.
+    </div>
+</section>
+
 <section class="section_3" id="advantages">
     <div class="title">Unsere Vorteile</div>
     <div class="advantages">
 
         <div class="advantage">
             <div class="advantage__icon"><i class="icon-gears-solid"></i></div>
-            <div class="advantage__title">Rabatte auf Materialien</div>
+            <div class="advantage__title">Umweltfreundliche Substanzen</div>
             <div class="advantage__description">
-                Emissionsreduzierung: Dank der innovativen Entwicklung unserer Technologien konnten wir die Emissionen reduzieren
-                Schadstoffe in die Atmosphäre um 50 %. Wir sind bestrebt, die Luftqualität und den Umweltschutz zu verbessern
-                Umfeld
+                Reduzierung der Emissionen: Dank der innovativen Entwicklung unserer Technologien konnten wir den
+                Ausstoß gefährlicher Stoffe in die Atmosphäre um 50 % reduzieren. Wir sind bestrebt, die Luftqualität
+                und den Umweltschutz zu verbessern.
             </div>
         </div>
 
@@ -301,7 +326,7 @@
 <section class="section_4" id="working">
     <div class="col1">
         <div class="bg_color_frame"></div>
-        <div class="image"><img src="./media/img/logo.png" alt="img"></div>
+        <div class="image"><img src="./media/img/imgonline-com-ua-Mirror-iiFn0MsnVoW.jpg" alt="img"></div>
     </div>
     <div class="col2">
         <div class="col2_wrapper">
@@ -310,8 +335,8 @@
             <div class="item">
                 <div class="item__num">01</div>
                 <div class="item__title">Forschung und Innovation:</div>
-                <div class="item__description">Wir betreiben ständig innovative Forschung zur Entwicklung
-                    umweltfreundliche Technologien und Materialien für die Reifenproduktion.</div>
+                <div class="item__description">Wir betreiben ständig innovative Forschung, um uns ökologisch weiterzuentwickeln
+                    saubere Technologien und Materialien für die Industrie.</div>
             </div>
 
             <div class="item">
@@ -358,15 +383,16 @@
 </section>
 
 <section class="section_6" id="about">
-    <div class="row1"><img src="./media/img/f66c02d10d7a1b4778b1e1a9295b5e69.jpg" alt="img"></div>
+    <div class="row1"><img src="./media/img/logo-cut.png" alt="img"></div>
     <div class="row2">
         <div class="title">Über uns</div>
         <div class="description">
-            Wir sind ein Unternehmen, das innovative umweltfreundliche Reifen herstellt. Unsere Mission ist es, Produkte anzubieten
-            Hochwertige Produkte, die die Bedürfnisse der Kunden erfüllen und den Planeten schützen. Wir haben die Emissionen reduziert
-            Schadstoffe um 50 % reduziert und die Lebensdauer der Reifen um 10–12 % erhöht. Unsere nachhaltigen Herstellungspraktiken
-            trägt dazu bei, die negativen Auswirkungen auf die Umwelt zu reduzieren. Wir schätzen Kunden und Angebot
-            individuelle Lösungen und Support.
+            Terravol ist ein Unternehmen, das innovative umweltfreundliche Inhaltsstoffe herstellt.
+            Unsere Mission ist es, Produkte anzubieten, die die Industrie sauberer und energieeffizienter machen.
+            Wir haben die Menge gefährlicher Substanzen in unseren Produkten um bis zu 50 % reduziert und den
+            Materialverbrauch um 10–12 % erhöht. Unsere nachhaltigen Herstellungspraktiken tragen dazu bei, unsere
+            negativen Auswirkungen auf die Umwelt zu reduzieren. Wir schätzen unsere Kunden und bieten maßgeschneiderte
+            Lösungen und Support.
             <br><br>
             Schaffen Sie gemeinsam mit uns eine grünere und sicherere Zukunft. Wir streben danach, zu werden
             Ein führendes Unternehmen in der Reifenindustrie, das innovative Lösungen mit hoher Qualität anbietet
