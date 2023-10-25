@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="robots" content="noindex, nofollow">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -86,7 +87,7 @@
             <div class="col1_col1"><i class="icon-phone-volume-solid"></i></div>
             <div class="col1_col2">
                 <div class="col1_row1">daily from 10:00 am to 10:00 pm</div>
-                <div class="col1_row2">+38(097)418-37-39</div>
+                <div class="col1_row2">+38(055)555-55-55</div>
             </div>
         </div>
 
@@ -438,13 +439,13 @@
 
     <div class="col1">
         <div class="col1_item title">Contacts</div>
-        <div class="col1_item phone"><i class="icon-phone-solid"></i> +38(097)418-37-39</div>
-        <div class="col1_item email"><i class="icon-envelope-regular"></i> rtiaktivator@gmail.com</div>
+        <div class="col1_item phone"><i class="icon-phone-solid"></i> +38(055)555-55-55</div>
+        <div class="col1_item email"><i class="icon-envelope-regular"></i> 555@gmail.com</div>
 <!--        <div class="col1_item address"><i class="icon-location-dot-solid"></i> г. Киев,​бульв. Шевченка, дом</div>-->
     </div>
 
     <div class="col2">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.427816788521!2d31.24988917643371!3d51.468661071804604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46d54f4b8ddf3ff5%3A0x8e89a68c4c2b3fcc!2z0JjQvdC00YPRgdGC0YDQuNCw0LvRjNC90LDRjyDRg9C7LiwgNdCwLCDQp9C10YDQvdC40LPQvtCyLCDQp9C10YDQvdC40LPQvtCy0YHQutCw0Y8g0L7QsdC70LDRgdGC0YwsIDE0MDAw!5e0!3m2!1sru!2sua!4v1687124502530!5m2!1sru!2sua" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d325519.57562797837!2d30.20305328315602!3d50.401569779157235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cf4ee15a4505%3A0x764931d2170146fe!2z0JrQuNC10LIsIDAyMDAw!5e0!3m2!1sru!2sua!4v1698252704656!5m2!1sru!2sua" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
 </section>
